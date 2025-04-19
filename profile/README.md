@@ -1,7 +1,3 @@
-# AutoIF
-
-Startup de desenvolvimento de AaaS e automações
-
 ![AutoIF](https://github.com/autoiflab/.github/blob/main/images/img.png)
 
 Aqui você encontrará informações sobre nossa empresa, especializada no desenvolvimento de agentes inteligentes e automações personalizadas de alto desempenho.
